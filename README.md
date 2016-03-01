@@ -7,9 +7,9 @@ Linkovi maturskog rada 2016 godine.
   - [Protocol Stack](https://en.wikipedia.org/wiki/Protocol_stack)
 - 2. Kontrola pristupa medija
   - [Media Access Control](https://en.wikipedia.org/wiki/Media_access_control)
-- 3.1 Hijerarhijska organizacija  
+- 3 Hijerarhijska organizacija  
   - [Computer Network ee.surrey.ac.uk](http://iplab.naist.jp/class/infoN/2012/materials/2012-03-protocol-architecture-en.pdf)
-- 3.2 Hijerarhijska organizacija mreže sa tri sloja
+- 3.1 Hijerarhijska organizacija mreže sa tri sloja
   - [The three-layer hierarchical design model](http://www.cisco.com/web/learning/netacad/demos/CCNP1v30/ch1/1_1_1/index.html)
 - 4. Korištenje statističkih multipleksera
   - [Statistical Time division multiplexing](https://en.wikipedia.org/wiki/Statistical_time_division_multiplexing)
